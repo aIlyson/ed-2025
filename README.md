@@ -1,2 +1,3 @@
-# ed_2025_2
-Repositório para armazenar as questões que são desenvolvidas em sala de aula durante o semestre letivi=o.
+# estrutura de dados 2025.2
+
+Este repositório é um espaço para armazenar as questões desenvolvidas durante as aulas do semestre letivo. O projeto é público e está hospedado no GitHub.
